@@ -6,6 +6,8 @@ Our data originates from one of the largest e-commerce platforms in China. By co
 
 Following internal open-source approval procedures, we hereby release the complete test set of the CoIN Benchmark. Due to repository size limitations imposed by the anonymous submission system, we provide a representative subset of 10,000 samples. The full training set and associated model checkpoints are currently undergoing internal review. We commit to releasing the complete dataset and models within three months of the paper’s acceptance.
 
+** This benchmark is intended for academic exchange only and is prohibited from use in any commercial setting. **
+
 ## Test Set Structure
 ```plain text
 testset/  
